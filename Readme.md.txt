@@ -1,0 +1,1 @@
+# repositorio referente aos scripts SQL do módulo BD
